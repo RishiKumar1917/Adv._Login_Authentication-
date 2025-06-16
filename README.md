@@ -1,7 +1,7 @@
 This code implements a secure login and signup system using Java Swing for the graphical user interface (GUI). Below is a detailed explanation of the functionality:
 
 ### Features:
-1. **Login System:
+1. Login System:
    - Users can log in using their username and password.
    - Passwords are hashed using SHA-256 and stored with a salt for added security.
    - The system tracks login attempts and locks the application after three failed attempts.
