@@ -1,5 +1,3 @@
-This code implements a secure login and signup system using Java Swing for the graphical user interface (GUI). Below is a detailed explanation of the functionality:
-
 ### Features:
 1. Login System:
    - Users can log in using their username and password.
